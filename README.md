@@ -11,8 +11,10 @@ Desarrollar la estructura inicial de la aplicación, incluyendo autenticación, 
 
 ## Integrantes
 
-- Daniel Israel Ruiz Beltrán
-- ...
+- ERICK DANIEL ESPIRITU SOLORIO
+- TAMMY KARMINA ESPINOSA ROSETE
+- MELISSA DEL ANGEL VEGA
+- CARLA JUDITH MEZA RONQUILLO
 
 ## Tecnologías
 
