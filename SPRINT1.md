@@ -24,3 +24,10 @@ Desarrollar la estructura inicial de la aplicación de control de despensa y pre
 - Planeación del Sprint.
 - Estructura inicial del proyecto.
 - Diseño preliminar de interfaces.
+  
+## Resultados obtenidos
+
+- Estructura inicial del proyecto definida.
+- Historias de usuario identificadas.
+- Product Backlog generado.
+- Planeación del Sprint completada.
